@@ -1,0 +1,22 @@
+C:\Users\Bernardo\Desktop\OXXO EXACTAS\OXXO\bin\Debug\OXXO.exe.config
+C:\Users\Bernardo\Desktop\OXXO EXACTAS\OXXO\bin\Debug\Database1.accdb
+C:\Users\Bernardo\Desktop\OXXO EXACTAS\OXXO\bin\Debug\OXXO.exe
+C:\Users\Bernardo\Desktop\OXXO EXACTAS\OXXO\bin\Debug\OXXO.pdb
+C:\Users\Bernardo\Desktop\OXXO EXACTAS\OXXO\bin\Debug\OXXO.xml
+C:\Users\Bernardo\Desktop\OXXO EXACTAS\OXXO\obj\Debug\OXXO.Form1.resources
+C:\Users\Bernardo\Desktop\OXXO EXACTAS\OXXO\obj\Debug\OXXO.Resources.resources
+C:\Users\Bernardo\Desktop\OXXO EXACTAS\OXXO\obj\Debug\OXXO.vbproj.GenerateResource.Cache
+C:\Users\Bernardo\Desktop\OXXO EXACTAS\OXXO\obj\Debug\OXXO.exe
+C:\Users\Bernardo\Desktop\OXXO EXACTAS\OXXO\obj\Debug\OXXO.xml
+C:\Users\Bernardo\Desktop\OXXO EXACTAS\OXXO\obj\Debug\OXXO.pdb
+C:\Users\Bernardo\Desktop\OXXO EXACTAS (2)\OXXO\bin\Debug\OXXO.exe.config
+C:\Users\Bernardo\Desktop\OXXO EXACTAS (2)\OXXO\obj\Debug\OXXO.exe
+C:\Users\Bernardo\Desktop\OXXO EXACTAS (2)\OXXO\obj\Debug\OXXO.xml
+C:\Users\Bernardo\Desktop\OXXO EXACTAS (2)\OXXO\obj\Debug\OXXO.pdb
+C:\Users\Bernardo\Desktop\OXXO EXACTAS (2)\OXXO\bin\Debug\Database1.accdb
+C:\Users\Bernardo\Desktop\OXXO EXACTAS (2)\OXXO\bin\Debug\OXXO.exe
+C:\Users\Bernardo\Desktop\OXXO EXACTAS (2)\OXXO\bin\Debug\OXXO.pdb
+C:\Users\Bernardo\Desktop\OXXO EXACTAS (2)\OXXO\bin\Debug\OXXO.xml
+C:\Users\Bernardo\Desktop\OXXO EXACTAS (2)\OXXO\obj\Debug\OXXO.Form1.resources
+C:\Users\Bernardo\Desktop\OXXO EXACTAS (2)\OXXO\obj\Debug\OXXO.Resources.resources
+C:\Users\Bernardo\Desktop\OXXO EXACTAS (2)\OXXO\obj\Debug\OXXO.vbproj.GenerateResource.Cache
